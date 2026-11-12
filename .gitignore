@@ -1,0 +1,8 @@
+node_modules/
+.playwright-mcp/
+playwright-report/
+test-results/
+reports/html/
+reports/test-results/
+playwright/.cache/
+.env
